@@ -6,5 +6,8 @@
   font-family: "Bebas Neue", sans-serif;
  
 }
+html, body {
+    overflow-x: hidden;
+}
 
  
